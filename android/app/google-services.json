@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "748141669409",
+    "project_id": "kottanchoru-93b5c",
+    "storage_bucket": "kottanchoru-93b5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748141669409:android:8c8cf18441bcf7846ec760",
+        "android_client_info": {
+          "package_name": "com.chan.kottanchoru"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhmqlgXCndhMCfo1PXMDkyL09ioKtlBks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
